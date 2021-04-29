@@ -42,12 +42,7 @@ a:hover {
 .foto {
   width: 80%;
   height: 60%;
-  border-radius: 350px;
-}
-
-.botao {
-  display: block;
-
+  border-radius: 30px 0;
 }
 
 .videos {
@@ -97,12 +92,13 @@ a:hover {
 }
 
 .tm-brand-container-inner {
+  margin-top: 80px;
   max-width: 710px;
   width: 100%;
 }
 
 .tm-brand-container {
-  padding: 75px 110px;
+  padding: 35px 50px;
 }
 
 .tm-brand-name {
@@ -110,7 +106,7 @@ a:hover {
 }
 
 .tm-brand-description {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 
 .parallax-window {
@@ -167,6 +163,7 @@ a:hover {
 
 #tmPortfolio {
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .tm-portfolio-item {
@@ -191,7 +188,7 @@ a:hover {
 }
 
 .tm-portfolio-description h3 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .tm-text-green {
@@ -206,16 +203,13 @@ a:hover {
   color: #3398cc;
 }
 
-.tm-text-dark-gray {
-  color: #676767;
-}
 
 .tm-title-small {
   font-size: 1.3rem;
 }
 
 p {
-  line-height: 1.8;
+  line-height: 1.4;
 }
 
 /*
